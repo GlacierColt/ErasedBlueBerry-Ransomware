@@ -1,0 +1,10 @@
+E:\ErasedBlueBerry-Ransomware\ErasedBlueBerry\ErasedBlueBerry\bin\Debug\ErasedBlueBerry.exe.config
+E:\ErasedBlueBerry-Ransomware\ErasedBlueBerry\ErasedBlueBerry\bin\Debug\ErasedBlueBerry.exe
+E:\ErasedBlueBerry-Ransomware\ErasedBlueBerry\ErasedBlueBerry\bin\Debug\ErasedBlueBerry.pdb
+E:\ErasedBlueBerry-Ransomware\ErasedBlueBerry\ErasedBlueBerry\obj\Debug\ErasedBlueBerry.csproj.AssemblyReference.cache
+E:\ErasedBlueBerry-Ransomware\ErasedBlueBerry\ErasedBlueBerry\obj\Debug\ErasedBlueBerry.form.Form1.resources
+E:\ErasedBlueBerry-Ransomware\ErasedBlueBerry\ErasedBlueBerry\obj\Debug\ErasedBlueBerry.Properties.Resources.resources
+E:\ErasedBlueBerry-Ransomware\ErasedBlueBerry\ErasedBlueBerry\obj\Debug\ErasedBlueBerry.csproj.GenerateResource.cache
+E:\ErasedBlueBerry-Ransomware\ErasedBlueBerry\ErasedBlueBerry\obj\Debug\ErasedBlueBerry.csproj.CoreCompileInputs.cache
+E:\ErasedBlueBerry-Ransomware\ErasedBlueBerry\ErasedBlueBerry\obj\Debug\ErasedBlueBerry.exe
+E:\ErasedBlueBerry-Ransomware\ErasedBlueBerry\ErasedBlueBerry\obj\Debug\ErasedBlueBerry.pdb
